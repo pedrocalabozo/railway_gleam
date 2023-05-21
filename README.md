@@ -1,24 +1,5 @@
 # railway_gleam
 
-[![Package Version](https://img.shields.io/hexpm/v/railway_gleam)](https://hex.pm/packages/railway_gleam)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/railway_gleam/)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/ICq88z?referralCode=Y68pBw)
 
-A Gleam project
-
-## Quick start
-
-```sh
-gleam run   # Run the project
-gleam test  # Run the tests
-gleam shell # Run an Erlang shell
-```
-
-## Installation
-
-If available on Hex this package can be added to your Gleam project:
-
-```sh
-gleam add railway_gleam
-```
-
-and its documentation can be found at <https://hexdocs.pm/railway_gleam>.
+This is a template for running a fault-tolerant [Mist](https://github.com/rawhat/mist) webserver written in [Gleam](https://gleam.run) on the Erlang BEAM VM. Gleam is a simple, statically-typed functional language with Rust-like syntax and a lightning-fast compiler.
