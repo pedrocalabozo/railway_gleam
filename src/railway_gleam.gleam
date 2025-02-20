@@ -22,7 +22,7 @@ pub fn main() {
       port,
       fn(_req) {
         response.new(200)
-        |> response.set_body(bit_builder.from_string("hello, world!"))
+        |> response.set_body(bit_builder.from_string("heddddddasdadallo, world!"))
       },
       max_body_limit: 4_000_000,
     )
